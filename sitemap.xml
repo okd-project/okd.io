@@ -2,252 +2,257 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/about/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/charter/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/communications/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/community/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/conduct/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/contributor/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/crc/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/docs/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/faq/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/help/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/installation/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/working-groups/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2021-03-07-new-blog.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2021-03-16-save-the-date-okd-testing-deployment-workshop.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2021-03-19-please-avoid-using-fcos-33.20210301.3.1.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2021-03-22-recap-okd-testing-deployment-workshop.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2021-05-04-From-OKD-to-OpenShift-in-3-Years.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2021-05-06-OKD-Office-Hours-at-KubeconEU-on-OpenShiftTV.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2022-09-09-an-introduction-to-debugging-okd-release-artifacts.html/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2022-10-20-OKD-at-Kubecon-NA-Detroit/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2022-10-25-OKD-Streams-Building-the-Next-Generation-of-OKD-together/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2022-12-12-Building-OKD-payload/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/automated-vsphere-upi/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/aws-ipi/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/azure-ipi/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/gcp-ipi/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/overview/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/sno/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/sri/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://openshift-cs.github.io/okd.io/index.html/guides/upi-sno/</loc>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/vadim/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/vsphere-ipi/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/vsphere-prereqs/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/virt-baremetal-upi/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/okd_tech_docs/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/okd_tech_docs/modifying_okd/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/okd_tech_docs/operators/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/okd_tech_docs/release/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/okd_tech_docs/troubleshoot/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_crc/overview/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_docs/content/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_docs/doc-env/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_docs/okd-io/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_docs/overview/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_virt/community/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/wg_virt/overview/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/working-group/minutes/minutes/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/working-group/minutes/2022/WG-Meeting-Minutes-04-12-2022/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/working-group/minutes/2022/WG-Meeting-Minutes-05-24-2022/</loc>
-         <lastmod>2023-04-11</lastmod>
+         <lastmod>2023-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
