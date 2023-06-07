@@ -2,11 +2,12 @@ tasks:
   - init: |
       pip install -r requirements.txt
       ./build.sh
+      echo "done build at $(date)"
     command: mkdocs serve
 
 ports:
   - port: 8000
-    name: mkdocs serve
-    visibility: private
+    name: mkdocs
+    visibility: public
     onOpen: open-preview
 
