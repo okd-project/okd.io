@@ -1,9 +1,12 @@
 tasks:
-  - init: ./build.sh
+  - init: |
+      pip install -r requirements.txt
+      ./build.sh
     command: mkdocs serve
 
 ports:
   - port: 8000
+    name: mkdocs serve
     visibility: private
     onOpen: open-preview
 
