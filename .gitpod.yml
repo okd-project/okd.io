@@ -6,6 +6,11 @@ tasks:
     command: mkdocs serve
 
 ports:
+  - port: 8080
+    name: httpd
+    visibility: public
+    onOpen: open-preview
+
   - port: 8000
     name: mkdocs
     visibility: public
