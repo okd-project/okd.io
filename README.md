@@ -1,7 +1,1 @@
-# OKD Website
-
-This repository contains the sources of https://okd.io/
-
-## Running locally
-
-Please read docs/wg_docs/okd-io.md for learning how to run the site locally.
+PLEASE DO NOT UPDATE THIS REPO - THIS HAS NOW BEEN MIGRATED TO THE OKD PROJECT ORG, SO CHANGES TO OKD.IO WEBSITE SHOULD BE MADE ON THAT REPO : [https://github.com/okd-project/okd.io](https://github.com/okd-project/okd.io)
