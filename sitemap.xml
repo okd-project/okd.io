@@ -121,6 +121,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://openshift-cs.github.io/okd.io/index.html/blog/2023-07-18-State-of-Affairs-in-OKD-CI-CD/</loc>
+         <lastmod>2023-07-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://openshift-cs.github.io/okd.io/index.html/guides/automated-vsphere-upi/</loc>
          <lastmod>2023-07-19</lastmod>
          <changefreq>daily</changefreq>
