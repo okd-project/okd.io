@@ -1,6 +1,6 @@
 # Deployment Guides
 
-<!--- cSpell:ignore prereqs Vadim homelab virt baremetal -->
+<!--- cSpell:ignore prereqs Vadim homelab virt baremetal Amresh -->
 
 The guides linked below provide some examples of how community members are using OKD and provide details of the underlying hardware and platform configurations they are using.
 
@@ -11,6 +11,7 @@ The guides linked below provide some examples of how community members are using
 - [Single Node UPI (the hard way) OKD Installation](upi-sno.md)
 - [Vadim's homelab](vadim.md)
 - [Sri's homelab](sri.md)
+- [Amresh's homelab](amreshh.md)
 - [Azure Installer Provisioned Infrastructure Default Deployment](azure-ipi.md)
 - [AWS Installer Provisioned Infrastructure Default Deployment](aws-ipi.md)
 - [GCP Installer Provisioned Infrastructure Default Deployment](gcp-ipi.md)

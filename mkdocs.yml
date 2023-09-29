@@ -83,6 +83,7 @@ nav:
           - Single Node UPI (the hard way) OKD Installation: guides/upi-sno.md
           - Vadim's homelab: guides/vadim.md
           - Sri's homelab: guides/sri.md
+          - Amresh's homelab: guides/amreshh.md
           - Azure IPI Default Deployment: guides/azure-ipi.md
           - AWS IPI Default Deployment: guides/aws-ipi.md
           - GCP IPI Default Deployment: guides/gcp-ipi.md
