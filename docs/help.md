@@ -4,7 +4,8 @@ There is no official product support for OKD as it is a community project. All a
 
 ## How to ask for help
 
-For questions or feedback, start a discussion on the [discussion forum](https://github.com/okd-project/okd/discussions){: target=_blank} or reach us on [Kubernetes Slack on #openshift-users](https://kubernetes.slack.com/)
+For questions or feedback, start a discussion on the [discussion forum](https://github.com/okd-project/okd/discussions){: target=_blank} or reach us on [Kubernetes Slack on #openshift-users](https://kubernetes.slack.com/).
+If you are not a member of the Kubernetes Slack workspace, you can request your invitation on [slack.kubernetes.io](https://slack.kubernetes.io).
 
 ## Community Etiquette
 
