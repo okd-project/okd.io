@@ -57,6 +57,8 @@ The working group maintains a presence on the
 [Kubernetes community Slack instance](https://kubernetes.slack.com) in the
 `#openshift-users` channel. This channel is a good place to come for OKD-specific
 help with operations and usage.
+If you are not yet a member of the Kubernetes workspace, you can request your
+invitation on [slack.kubernetes.io](https://slack.kubernetes.io).
 
 ## GitHub
 
