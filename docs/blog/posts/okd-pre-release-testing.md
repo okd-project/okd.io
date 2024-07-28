@@ -3,7 +3,7 @@ draft: false
 date: 2024-07-29
 ---
 
-<!-- cSpell:ignore SCOS ostree homelabs -->
+<!-- cSpell:ignore SCOS ostree nightlies -->
 
 # OKD Pre-Release Testing July 2024
 
