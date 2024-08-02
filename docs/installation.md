@@ -72,7 +72,7 @@ oc adm release extract --tools quay.io/openshift/okd:4.5.0-0.okd-2020-07-14-1537
 !!!Note
     You need a 4.x version of `oc` to extract the installer and the latest client. You can initially use the [official Openshift client (mirror)](https://mirror.openshift.com/pub/openshift-v4/clients/oc/latest/linux/){: target=_blank}
 
-There are full instructions in the [OKD documentation](https://docs.okd.io/latest/installing/installing-preparing.html){: target=_blank} for each supported platform, but the main steps for an IPI install are:
+There are full instructions in the [OKD documentation](https://docs.okd.io/latest/welcome/){: target=_blank} for each supported platform, but the main steps for an IPI install are:
 
 1. extract the downloaded tarballs and copy the binaries into your PATH.
 2. run the following from an empty directory:
