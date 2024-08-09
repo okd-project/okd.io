@@ -58,7 +58,6 @@ If this process succeeds, you will find the rendered output files in `./_preview
 There are 2 caveats to be aware of when building the site locally:
 
 1. you will most likely see some error output that looks like this:
-  
   ```text
   WARN: The following branches do not exist in your local git repo:
   - enterprise-3.10
@@ -73,6 +72,5 @@ There are 2 caveats to be aware of when building the site locally:
   WARN: The /docs/_topic_map.yml20230919-1-628e1m file on branch 'OSDOCS-7251-Azure-CPMS-mutli-subnet' references 215 nonexistent topics. Set logging to 'debug' for details.
   WARN: Branch OSDOCS-7251-Azure-CPMS-mutli-subnet includes 6073 files that are not referenced in the /docs/_topic_map.yml20230919-1-bhydnn file. Set logging to 'debug' for details.
   ```
-
   This is a normal type of warning produced by the build process and doesn't necessarily need investigating.
-2. The root index file will be `./index-community.html`, but this file does not link properly to the content in `./_preview` directory. if you want to see the main page for the version, the file is `./_preview/openshift-origin/latest/welcome/index.html`.
+1. The root index file will be `./index-community.html`, but this file does not link properly to the content in `./_preview` directory. if you want to see the main page for the version, the file is `./_preview/openshift-origin/latest/welcome/index.html`.
